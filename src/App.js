@@ -90,7 +90,7 @@ const App = ({ columns, columnsArray, tweets, dispatch }) => {
 
   return (
     <div>
-      <h1>Tweeter Saver</h1>
+      <h1>Tweeter Saver v1</h1>
       <Divider />
 
       <div style={styles.topContainer}>

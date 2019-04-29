@@ -1,21 +1,17 @@
 {
-  "addons": [
-
-  ],
+  "addons": [],
   "buildpacks": [
     {
       "url": "https://github.com/mars/create-react-app-buildpack.git"
     }
   ],
-  "env": {
-  },
+  "env": {},
   "formation": {
     "web": {
       "quantity": 1
     }
   },
   "name": "tweet_saver",
-  "scripts": {
-  },
+  "scripts": {},
   "stack": "heroku-18"
 }
